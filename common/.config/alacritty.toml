@@ -6,7 +6,7 @@ startup_mode = "Maximized"
 option_as_alt = "Both"  # macOS only
 
 [font]
-size = 14
+size = 20
 offset = { x = 0, y = 0 }
 normal      = { family = "IosevkaTerm Nerd Font Mono", style = "Light" }
 italic      = { style = "Light Italic" }
